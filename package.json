@@ -1,0 +1,32 @@
+{
+  "name": "electron-learn",
+  "version": "1.0.0",
+  "description": "This project contains learning code for electron.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbarve1/electron-learn.git"
+  },
+  "keywords": [],
+  "author": "Himank Honey Barve <hbarve1592@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbarve1/electron-learn/issues"
+  },
+  "homepage": "https://github.com/hbarve1/electron-learn#readme",
+  "devDependencies": {
+    "@babel/cli": "7.1.2",
+    "@babel/core": "7.1.2",
+    "@babel/preset-env": "7.1.0",
+    "electron": "3.0.2",
+    "eslint": "5.6.1",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.14.0",
+    "nodemon": "1.18.4",
+    "prettier": "1.14.3"
+  }
+}
